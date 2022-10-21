@@ -1,0 +1,7 @@
+{
+  "name": "ccff-angular-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
